@@ -13,13 +13,13 @@ Recent Business Information Technology graduate from Virginia Tech with a concen
 
 ## Featured Projects
 
-### Amazon Logistics Decision Support System
+### [Amazon Logistics Decision Support System](https://github.com/anthonyabible/amazon-logistics-dss)
 Excel/VBA decision support system with manager and employee views, forecasting tools, Solver-based shipping optimization, and dashboard-style reporting.
 
-### Coffee Shop SQL Web App
+### [Coffee Shop SQL Web App](https://github.com/anthonyabible/coffee-shop-sql-web-app)
 Flask and MySQL web app with product pages, database connection, inventory analytics, and HTML templates.
 
-### Government Spending Comparison Analysis
+### [Government Spending Comparison Analysis](https://github.com/anthonyabible/government-spending-comparison-analysis)
 Python data analysis project comparing health, education, and military spending across countries using GDP and per-capita metrics.
 
 ## Career Interests
