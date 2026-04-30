@@ -16,7 +16,7 @@ Recent Business Information Technology graduate from Virginia Tech with a concen
 ### [Amazon Logistics Decision Support System](https://github.com/anthonyabible/amazon-logistics-dss)
 Excel/VBA decision support system with manager and employee views, forecasting tools, Solver-based shipping optimization, and dashboard-style reporting.
 
-### [Coffee Shop SQL Web App](https://github.com/anthonyabible/coffee-shop-sql-web-app)
+### [Coffee Shop Flask MySQL App](https://github.com/anthonyabible/coffee-shop-flask-mysql-app)
 Flask and MySQL web app with product pages, database connection, inventory analytics, and HTML templates.
 
 ### [Government Spending Comparison Analysis](https://github.com/anthonyabible/government-spending-comparison-analysis)
