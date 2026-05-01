@@ -22,6 +22,9 @@ Flask and MySQL web app with product pages, database connection, inventory analy
 ### [Government Spending Comparison Analysis](https://github.com/anthonyabible/government-spending-comparison-analysis)
 Python data analysis project comparing health, education, and military spending across countries using GDP and per-capita metrics.
 
+### [Peer Evaluation Web App Capstone](https://github.com/anthonyabible/peer-evaluation-web-app-capstone)
+Business systems project with Agile planning, DFDs, CRUD mapping, sprint documentation, and Zapier workflow automation for peer evaluation submissions.
+
 ## Career Interests
 
 I am interested in data analyst, reporting analyst, BI analyst, business analyst, and operations analyst roles where I can use Excel, SQL, Python, and BI tools to turn data into useful business insights.
