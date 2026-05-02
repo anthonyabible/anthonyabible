@@ -14,19 +14,19 @@ Python: Pandas, DuckDB, Matplotlib, data cleaning, large dataset analysis, data 
 
 ## Featured Projects
 
-### Medicare Provider Service Analytics
+### [Medicare Provider Service Analytics](https://github.com/anthonyabible/medicare-provider-service-analytics)
 Healthcare analytics project using the official CMS Medicare Physician & Other Practitioners by Provider and Service dataset. Analyzed 9.6M+ provider-service records across 1.17M+ providers using Python, DuckDB/SQL-style analysis, and Power BI-ready outputs to identify Medicare payment drivers, HCPCS service trends, and Connecticut vs. national benchmarks.
 
-### Amazon Logistics Decision Support System
+### [Amazon Logistics Decision Support System](https://github.com/anthonyabible/amazon-logistics-dss)
 Excel/VBA decision support system with manager and employee views, forecasting tools, Solver-based shipping optimization, and dashboard-style reporting.
 
-### Government Spending Comparison Analysis
+### [Government Spending Comparison Analysis](https://github.com/anthonyabible/government-spending-comparison-analysis)
 Python data analysis project comparing health, education, and military spending across countries using GDP and per-capita metrics.
 
-### Coffee Shop Flask MySQL App
+### [Coffee Shop Flask MySQL App](https://github.com/anthonyabible/coffee-shop-flask-mysql-app)
 Flask and MySQL web app with product pages, database connection, inventory analytics, and HTML templates.
 
-### Peer Evaluation Web App Capstone
+### [Peer Evaluation Web App Capstone](https://github.com/anthonyabible/peer-evaluation-web-app-capstone)
 Business systems project with Agile planning, DFDs, CRUD mapping, sprint documentation, and Zapier workflow automation for peer evaluation submissions.
 
 ## Career Interests
