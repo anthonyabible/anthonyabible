@@ -6,7 +6,8 @@ Recent Business Information Technology graduate from Virginia Tech with a concen
 
 - Excel: PivotTables, Power Query, lookup functions, charts, dashboards, forecasting, Solver, optimization
 - VBA: Macros, workbook automation, navigation buttons, user interface development
-- SQL: MySQL, joins, filtering, CRUD operations, database-backed web apps
+- SQL: DuckDB SQL, MySQL, joins, filtering, aggregations, CRUD operations, database-backed web apps
+Python: Pandas, DuckDB, Matplotlib, data cleaning, large dataset analysis, data visualization
 - Python: Pandas, Matplotlib, data cleaning, data visualization
 - BI Tools: Power BI, Tableau
 - Business Analysis: Reporting, KPI tracking, operations analysis, process improvement
