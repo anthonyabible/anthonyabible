@@ -2,7 +2,7 @@
 
 **Anthony Bible | Excel/VBA · SQL · Python · Power BI · Tableau**
 
-Data analyst projects here focus on reporting automation, BI-ready datasets, and decision-support workflows using Excel/VBA, SQL, Python, Power BI, and Tableau.
+Data analyst projects in this portfolio focus on reporting automation, BI-ready datasets, and decision-support workflows using Excel/VBA, SQL, Python, Power BI, and Tableau.
 
 I build analytics projects that clean data, reduce manual reporting work, and turn business questions into dashboards, summaries, and insights.
 
